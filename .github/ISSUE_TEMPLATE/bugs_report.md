@@ -2,7 +2,7 @@
 name: 🐛Bug report
 about: 'report bugs'
 title: ''
-labels: bug
+labels: 漏洞（bug）
 assignees: ''
 ---
 
@@ -11,6 +11,6 @@ assignees: ''
 ## 您使用的版本/your version
 
 ## 您使用系统以及版本/your system and system version
-e.g : Android 15 ; Windows 10
+Android 16 ; Windows 10
 
-## 修复时间/fix date （您无需填写/You don't need to fill in）
+## 修复版本/fix version（您无需填写/You don't need to fill in）
