@@ -8,5 +8,5 @@
 <br>
 <b>for Windows 10+</b>
 <h3>关于发布（pubilsh）</h3>
-<p>Android：stable,preview</p>
-<p>Windows：stable</p>
+<p>Android</p>
+<p>Windows</p>
