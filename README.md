@@ -2,7 +2,7 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/Cave-parkour-tech-demo/total)
 
-<p>a 2d game made in Godot 4.6 now and this is a tech demo now!</p>
+<p>a 2d game made in Godot 4.7 now and this is a tech demo now!</p>
 <p>you can download to try it :)</p>
 <b>for Android 7.0+</b>
 <br>
