@@ -1,4 +1,4 @@
-# A parkour game made in godot engine.
+# A parkour game tech demo made with Godot 4
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/Cave-parkour-tech-demo/total)
 
