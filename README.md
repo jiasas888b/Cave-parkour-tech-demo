@@ -7,6 +7,5 @@
 <b>for Android 7.0+</b>
 <br>
 <b>for Windows 10+</b>
-<h3>关于发布（pubilsh）</h3>
-<p>Android</p>
-<p>Windows</p>
+### support
+Android ，Windows
