@@ -2,10 +2,10 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/Cave-parkour-tech-demo/total)
 
-<p>a 2d game made in Godot 4.7 now and this is a tech demo now!</p>
-<p>you can download to try it :)</p>
-<b>for Android 7.0+</b>
-<br>
-<b>for Windows 10+</b>
+a 2d parkour game tech demo made with Godot Engine (4.7)
+* has some level 
+* has coin in level
+* support 8 langiages
+* support keyboard and touchscreen
 ### support
-Android ，Windows
+Android(7.0+ RAM4GB+);Windows(10+ RAM4GB+)
